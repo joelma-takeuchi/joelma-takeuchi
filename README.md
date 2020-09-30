@@ -26,7 +26,7 @@ Em setembro finalizei o Bootcamp Full Stack da Generation Brasil onde pude contr
 ### Hobbies: 
 
 * Paixão pela cultura e culinária Japonesa :jp: Coreana:kr: 
-* Praticante esporádica em Yoga
+* Praticante esporádica de Yoga, indico este [app](https://play.google.com/store/apps/details?id=com.downdogapp.intro&hl=en_US)
 * Amo ficar em casa e cozinhar :bento: :ramen: :fried_shrimp: :rice_ball: :sushi:
 * Ouvinte de podcast, atualmente comecei a ouvir Hipsters- ponto tech desde o primeiro episódio.
 
