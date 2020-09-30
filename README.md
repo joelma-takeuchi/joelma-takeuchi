@@ -1,9 +1,10 @@
 ### Oi oi oi :wave: Bem-vindes ao meu perfil ! 
 # Joelma Takeuchi :woman_technologist:
 
-<p align="left">
-<a href="https://linkedin.com/in/joelmatakeuchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joelmatakeuchi" height="30" width="40" /></a>
-</p>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joelma-takeuchi)](https://github.com/joelma-takeuchi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelmatakeuchi/)](https://www.linkedin.com/in/joelmatakeuchi/)
+
 
 
 
@@ -20,6 +21,14 @@ Em setembro finalizei o Bootcamp Full Stack da Generation Brasil onde pude contr
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelma-takeuchi&layout=compact" alt="joelma-takeuchi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joelma-takeuchi&show_icons=true" alt="joelma-takeuchi" /></p>
+
+
+### Hobbies: 
+
+* Paixão pela cultura gastrônomica Japonesa / Coreana.
+* Praticante exporadica em Yoga
+* Amo ficar em casa e cozinhar
+* Ouvinte de podcast, atualmente comecei a ouvir Hipsters- ponto tech desde o primeiro episódio.
 
 
 
