@@ -25,9 +25,9 @@ Em setembro finalizei o Bootcamp Full Stack da Generation Brasil onde pude contr
 
 ### Hobbies: 
 
-* Paixão pela cultura gastrônomica Japonesa / Coreana.
+* Paixão pela cultura gastrônomica Japonesa :jp: Coreana:kr: 
 * Praticante exporadica em Yoga
-* Amo ficar em casa e cozinhar
+* Amo ficar em casa e cozinhar :bento: :ramen: :fried_shrimp: :rice_ball: :sushi:
 * Ouvinte de podcast, atualmente comecei a ouvir Hipsters- ponto tech desde o primeiro episódio.
 
 
